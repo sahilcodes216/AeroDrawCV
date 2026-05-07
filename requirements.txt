@@ -1,0 +1,5 @@
+opencv-python==latest
+mediapipe==latest
+numpy==latest
+pytesseract==latest
+Pillow==latest
