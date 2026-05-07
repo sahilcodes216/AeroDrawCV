@@ -34,7 +34,8 @@ The project tracks hand movements through a webcam and converts finger motion in
    ```bash
    pip install -r requirements.txt
    ```
-- ✍️**NOTE: Download latest version of all required modules**
+- ✍️**NOTE: Download latest version of all required modules in virtual environment**
+
 # 📸 How It Works
 **1. Webcam captures hand movements.** <br>
 **2. MediaPipe detects hand landmarks.** <br>
