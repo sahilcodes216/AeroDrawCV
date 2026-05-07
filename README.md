@@ -2,7 +2,7 @@
 A Computer Vision project built using **Python**, **MediaPipe**, **OpenCV**, **NumPy**, and **other required modules** that allows users to draw in the air using hand gestures.<br>
 The project tracks hand movements through a webcam and converts finger motion into virtual drawing on the screen.
 
-# 📌 Features
+# 💫 Features
 - **✋ Real-time hand tracking**
 - **🎨 Draw on screen using finger gestures**
 - **📷 Webcam-based interaction**
@@ -17,19 +17,19 @@ The project tracks hand movements through a webcam and converts finger motion in
 | OpenCV     | Video capturing & image processing  |
 | Mediapipe  | Hand landmark detection & tracking  |
 | NumPy      | Numerical operations                |
-- **Other Modules**
+- **Other Modules(Tesseract, Pillow)**
 
 # 📂 Project Structure
-CV_Project/
+CV_Project/ <br>
 │
-├── vision_assets/          # Assets used in the project<br>
-├── AeroDrawModule.py       # Main drawing module<br>
-├── GestureTracker.py       # Hand tracking & gesture detection<br>
-├── hand_landmarker.task    # MediaPipe hand landmark model<br>
-├── requirements.txt        # Required Python modules<br>
+├── vision_assets/           # Assets used in the project <br>
+├── AeroDrawModule.py        # Main drawing module <br>
+├── GestureTracker.py        # Hand tracking & gesture detection <br>
+├── hand_landmarker.task     # MediaPipe hand landmark model <br>
+├── requirements.txt         # Required Python modules <br>
 
 # Create Virtual Environment (A Better Option)
-- Creating a virtual environment keeps project dependencies separate from your system Python.<br> And,
+- Creating a virtual environment keeps project dependencies separate from your system Python. And, <br>
   **📥 Install Required Modules in virtual**
    ```pip install -r requirements.txt```
 
@@ -45,6 +45,6 @@ CV_Project/
 
 # 🤝 Connect With Me
 Feel free to connect with me:<br>
-**💼 LinkedIn:** Your LinkedIn Profile Link
+**💼 LinkedIn:** ```https://www.linkedin.com/in/sahil-verma-b40b38385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app```
 
   
