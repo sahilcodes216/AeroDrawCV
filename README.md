@@ -58,9 +58,4 @@ The project tracks hand movements through a webcam and converts finger motion in
 
 # 👨‍💻 Author
 - **Sahil Verma**
-
-# 🤝 Connect With Me
-Feel free to connect with me:<br>
-**💼 LinkedIn:** https://www.linkedin.com/in/sahil-verma-b40b38385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
   
